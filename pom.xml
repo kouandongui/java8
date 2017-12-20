@@ -5,4 +5,14 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>lambda</name>
   <description>proje tuto lamnda</description>
+    <scm>
+        <connection>scm:git:https://github.com/kouandongui/java8.git</connection>
+        <developerConnection>scm:git:https://github.com/kouandongui/java8.git</developerConnection>
+        <url>https://github.com/kouandongui/java8.git</url>
+        <tag>HEAD</tag>
+    </scm>
 </project>
+
+
+
+
